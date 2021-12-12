@@ -1,0 +1,16 @@
+h3{
+    font-size: 25px !important;
+}
+.btn-success:hover{
+    background-color: darkgoldenrod;
+}
+canvas{
+    animation-duration:1.5s;
+    animation-name:Anurag;
+    animation-iteration-count: infinite;
+}
+@keyframes Anurag {
+    from{box-shadow: lime 1px 1px 38px;}
+    to{box-shadow:blue 1px 1px 38px;}
+    
+}
